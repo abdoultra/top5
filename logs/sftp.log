@@ -1,0 +1,43 @@
+Feb 18 12:14:52 10.71.57.0 u115561928 Connection from 10.71.57.0 port 12300 on 82.165.89.190 port 22 rdomain ""
+Feb 18 12:15:00 10.71.57.0 u115561928 Accepted password for u115561928 from 10.71.57.0 port 12300 ssh2
+Feb 18 12:15:00 10.71.57.0 u115561928 Starting session: subsystem 'sftp' for u115561928 from 10.71.57.0 port 12300 id 0
+Feb 18 12:15:00 10.71.57.0 u115561928 session opened for local user u115561928 from [10.71.57.0]
+Feb 18 12:21:42 10.71.57.0 u115561928 remove name "/logs/.htaccess"
+Feb 18 12:21:42 10.71.57.0 u115561928 [10.71.57.0|rm|0|0|0|0|13|2f6c6f67732f2e6874616363657373|]
+Feb 18 12:21:42 10.71.57.0 u115561928 sent status Permission denied
+Feb 18 12:21:42 10.71.57.0 u115561928 remove name "/logs/info.pl"
+Feb 18 12:21:42 10.71.57.0 u115561928 [10.71.57.0|rm|0|0|0|0|13|2f6c6f67732f696e666f2e706c|]
+Feb 18 12:21:42 10.71.57.0 u115561928 sent status Permission denied
+Feb 18 12:21:42 10.71.57.0 u115561928 remove name "/logs/info.php5"
+Feb 18 12:21:42 10.71.57.0 u115561928 [10.71.57.0|rm|0|0|0|0|13|2f6c6f67732f696e666f2e70687035|]
+Feb 18 12:21:42 10.71.57.0 u115561928 sent status Permission denied
+Feb 18 12:21:42 10.71.57.0 u115561928 remove name "/logs/info.py"
+Feb 18 12:21:42 10.71.57.0 u115561928 [10.71.57.0|rm|0|0|0|0|13|2f6c6f67732f696e666f2e7079|]
+Feb 18 12:21:42 10.71.57.0 u115561928 sent status Permission denied
+Feb 18 12:21:42 10.71.57.0 u115561928 remove name "/logs/access.log.07.7"
+Feb 18 12:21:42 10.71.57.0 u115561928 [10.71.57.0|rm|0|0|0|0|13|2f6c6f67732f6163636573732e6c6f672e30372e37|]
+Feb 18 12:21:42 10.71.57.0 u115561928 sent status Permission denied
+Feb 18 12:21:42 10.71.57.0 u115561928 remove name "/logs/access.log.current"
+Feb 18 12:21:42 10.71.57.0 u115561928 [10.71.57.0|rm|0|0|0|0|13|2f6c6f67732f6163636573732e6c6f672e63757272656e74|]
+Feb 18 12:21:42 10.71.57.0 u115561928 sent status Permission denied
+Feb 18 12:21:43 10.71.57.0 u115561928 remove name "/logs/sftp.log"
+Feb 18 12:21:43 10.71.57.0 u115561928 [10.71.57.0|rm|0|0|0|0|13|2f6c6f67732f736674702e6c6f67|]
+Feb 18 12:21:43 10.71.57.0 u115561928 sent status Permission denied
+Feb 18 12:21:43 10.71.57.0 u115561928 rmdir name "/logs/traffic.html"
+Feb 18 12:21:43 10.71.57.0 u115561928 [10.71.57.0|rmdir|0|0|0|0|13|2f6c6f67732f747261666669632e68746d6c|]
+Feb 18 12:21:43 10.71.57.0 u115561928 sent status Permission denied
+Feb 18 12:21:43 10.71.57.0 u115561928 rmdir name "/logs"
+Feb 18 12:21:43 10.71.57.0 u115561928 [10.71.57.0|rmdir|0|0|0|0|39|2f6c6f6773|]
+Feb 18 12:21:43 10.71.57.0 u115561928 sent status Failure
+Feb 18 12:21:47 10.71.57.0 u115561928 remove name "/index.html"
+Feb 18 12:21:47 10.71.57.0 u115561928 [10.71.57.0|rm|0|0|0|0|0|2f696e6465782e68746d6c|]
+Feb 18 12:21:50 10.71.57.0 u115561928 Connection from 10.71.57.0 port 17386 on 82.165.89.190 port 22 rdomain ""
+Feb 18 12:21:50 10.71.57.0 u115561928 Accepted password for u115561928 from 10.71.57.0 port 17386 ssh2
+Feb 18 12:21:50 10.71.57.0 u115561928 Connection from 10.71.57.0 port 17388 on 82.165.89.190 port 22 rdomain ""
+Feb 18 12:21:50 10.71.57.0 u115561928 Accepted password for u115561928 from 10.71.57.0 port 17388 ssh2
+Feb 18 12:21:50 10.71.57.0 u115561928 Starting session: subsystem 'sftp' for u115561928 from 10.71.57.0 port 17388 id 0
+Feb 18 12:21:50 10.71.57.0 u115561928 Starting session: subsystem 'sftp' for u115561928 from 10.71.57.0 port 17386 id 0
+Feb 18 12:21:50 10.71.57.0 u115561928 session opened for local user u115561928 from [10.71.57.0]
+Feb 18 12:21:50 10.71.57.0 u115561928 session opened for local user u115561928 from [10.71.57.0]
+Feb 18 12:21:50 10.71.57.0 u115561928 sent status No such file
+Feb 18 12:21:50 10.71.57.0 u115561928 open "/logs/sftp.log" flags READ mode 0666
